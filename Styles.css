@@ -1,0 +1,23 @@
+body {
+    background-color: white;}
+
+img
+ {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+
+#header {
+    position: fixed;
+
+}
+
+#name {
+    color: black;
+    font-family: fantasy;
+    font-size: 40px;
+
+}
